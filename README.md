@@ -1,0 +1,1 @@
+# tugas1_ddp_0110225059_Nuragustina_Ti07.py
